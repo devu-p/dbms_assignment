@@ -1,0 +1,10 @@
+9. What is save Point? How to create a save Point write a Query?
+
+ans :
+savepoint is a temporary marker within a transaction that allows you to roll back to a specific point in the transaction, without rolling back the entire transaction.
+
+->Create Savepoint
+SAVEPOINT savepoint_name;
+
+->ex
+SAVEPOINT my_savepoint;

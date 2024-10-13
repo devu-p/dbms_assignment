@@ -1,0 +1,10 @@
+5. What do you understand By Data Redundancy?
+
+ans : 
+Definition:- Data redundancy is when the same data is stored in multiple places.
+
+use:-
+Data redundancy can use many purpose like Data backup and recovery,Improved data availability and Disaster recovery.
+
+example:-
+storing the complete details of the department such as department_id, department_name, and department_head repeatedly in every student record

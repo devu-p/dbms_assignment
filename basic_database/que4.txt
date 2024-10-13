@@ -1,0 +1,14 @@
+4. What is MF Cod Rule of RDBMS Systems?
+
+ans: The EF Codd Rules are a set of 12 rules :-
+1. The Information Rule
+2. The Guaranteed Access Rule
+3. Systematic Treatment of Null Values
+4. Active Online Catalog
+6. View Updating
+7. High-Level Insert, Update, and Delete
+8. Physical Data Independence
+9. Logical Data Independence
+10. Integrity Independence
+11. Distribution Independence
+12. Non-Subversion Rule

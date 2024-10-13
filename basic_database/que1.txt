@@ -1,0 +1,9 @@
+1. What do you understand By Database
+
+ans : Definition :-
+A database is an organized collection of structured information.
+
+use:-
+database is used to define how data is structured, stored, accessed, and changed
+
+Ex :-MariaDB,Oracle Database,MySQL.

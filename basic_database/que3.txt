@@ -1,0 +1,8 @@
+3. What is Difference between DBMS and RDBMS?
+
+Ans : 
+Definition:- DBMS stands for Database Management System.RDBMS stands for Relational Database Management System.
+
+:- The main difference between a database management system  and a relational database management system  is that RDBMS is a more advanced version of DBMS.
+
+:- Data storage: DBMS stores data in files, while RDBMS stores data in tables. 

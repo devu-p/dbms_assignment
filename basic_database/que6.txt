@@ -1,0 +1,10 @@
+6. What is DDL Interpreter?
+
+ans :
+Definition:-
+DDL Interpreter is interprets the DDL statements and records the generated statements in the table containing metadata.
+
+use:-
+It interprets the DDL (Data Definition Language) Instructions and stores the record in a data dictionary.
+
+:-DDL statements include CREATE, ALTER, and DROP.

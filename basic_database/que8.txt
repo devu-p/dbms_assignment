@@ -1,0 +1,39 @@
+8. What is SQL Key Constraints writing an Example of SQL Key Constraints
+
+ans:
+SQL Key Constraints ensure data integrity and relationships between tables in a relational database management system . 
+
+->Primary Key  Constraint
+
+CREATE TABLE Employees (
+  EmployeeID INT PRIMARY KEY,
+  Name varchar(50),
+  Age INT
+);
+
+Foreign Key Constraint
+
+CREATE TABLE Orders (
+  OrderID INT PRIMARY KEY,
+  CustomerID INT,
+  FOREIGN KEY (CustomerID) REFERENCES Customers(CustomerID)
+);
+
+CREATE TABLE Customers (
+  CustomerID INT PRIMARY KEY,
+  Name varchar(50)
+);
+
+Unique Key Constraint
+
+CREATE TABLE Employees (
+  EmployeeID INT PRIMARY KEY,
+  Email varchar(100) UNIQUE
+);
+
+Not Null Constraint
+
+CREATE TABLE Employees (
+  EmployeeID INT PRIMARY KEY,
+  Name varchar(50) NOT NULL
+);
