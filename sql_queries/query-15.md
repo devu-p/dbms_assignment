@@ -3,5 +3,5 @@
 
 ```sql 
 SELECT * FROM salesperson
-WHERE city="Barcelona" OR city="Londan";
+WHERE city="Barcelona" OR city="London";
 ```
